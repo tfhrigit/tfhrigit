@@ -1,7 +1,8 @@
-## Halo, Saya Fahri Siswa Dari Jurusan RPL
+## Halo, Saya fahri siswa RPL
 Hobi matematika, koding, design dan game🎮🎴<br/>
-Junior Laravel😉<br/>
-Junior CodeIgniter😛<br/>
+Junior Laravel<br/>
+Junior CodeIgniter<br/>
+Junior FrontEnd Dev<br/>
 Saya membuat berbagai web namun tidak pernah di hosting😪<br>
 berikut profil saya di [instagram](https://www.instagram.com/tfhri_/)
 
