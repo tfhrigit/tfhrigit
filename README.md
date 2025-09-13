@@ -1,4 +1,4 @@
-## Halo, Saya fahri
+## Halo, Saya fahri dari jurusan RPL
 Hobi matematika, koding, design dan game🎮🎴<br/>
 Junior Laravel<br/>
 Junior CodeIgniter<br/>
