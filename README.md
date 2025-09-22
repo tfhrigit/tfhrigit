@@ -1,4 +1,4 @@
-# 💫 tentang gwe :
+# tentang gwe :
  alo, gwe fahri siswa dari jurusan rpl<br>
  hobi : matematika, coding, design dan game
  pengalaman coding dari kls 8-12
