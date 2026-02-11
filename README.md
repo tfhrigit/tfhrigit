@@ -1,7 +1,7 @@
 # tentang gwe :
  alo, gwe fahri siswa dari jurusan rpl<br>
- hobi : coding, design dan game
- pengalaman coding dari kls 8-12
+ hobi : coding, design dan ngegame
+ pengalaman coding xml,html,js,php native, framework laravel/react/express 
 
 
 # inilah my techstack:
