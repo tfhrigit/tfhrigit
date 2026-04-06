@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2027,203a43,2c5364&height=200&section=header&text=Tedi%20Fahri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Tedi%20Fahri&fontSize=40&fontColor=000000" />
 </p>
 
 <p align="center">
@@ -7,13 +7,13 @@ Pengembang Web | PHP Developer Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Developer;Fokus+pada+PHP+dan+Backend;Membangun+Sistem+yang+Efisien" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=Web+Developer;Fokus+Laravel+dan+Backend;Membangun+Aplikasi+Berbasis+Web" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -28,12 +28,13 @@ Saya terus mempelajari berbagai teknologi baru untuk meningkatkan kemampuan dala
 ## Keahlian
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,html,css,js,git,github,vscode" />
 </p>
 
+- Laravel  
+- MySQL  
+- Laragon & XAMPP  
 - HTML, CSS, JavaScript  
-- PHP dan MySQL  
-- Dasar Laravel  
 - Git dan GitHub  
 
 ---
@@ -41,7 +42,7 @@ Saya terus mempelajari berbagai teknologi baru untuk meningkatkan kemampuan dala
 ## Proyek
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380"/>
 </p>
 
 Beberapa proyek yang pernah saya kerjakan:
@@ -56,8 +57,11 @@ Beberapa proyek yang pernah saya kerjakan:
 ## Statistik GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tfhrigit&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=tfhrigit&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tfhrigit&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tfhrigit&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -65,15 +69,7 @@ Beberapa proyek yang pernah saya kerjakan:
 ## Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tfhrigit&theme=tokyo-night" />
-</p>
-
----
-
-## Kontribusi
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tfhrigit/tfhrigit/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tfhrigit&theme=github-dark" />
 </p>
 
 ---
@@ -86,7 +82,3 @@ Jika ingin berdiskusi atau bekerja sama, silakan hubungi melalui:
 - Email: rikogans754@gmail.com  
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=120&section=footer"/>
-</p>
