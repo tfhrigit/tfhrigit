@@ -76,6 +76,7 @@ Beberapa proyek yang pernah saya kerjakan:
 Jika ingin berdiskusi atau bekerja sama, silakan hubungi melalui:
 
 - GitHub: https://github.com/tfhrigit  
-- Email: rikogans754@gmail.com  
+- Email: rikogans754@gmail.com
+- Portofolio: txf.vercel.app
 
 ---
