@@ -34,22 +34,24 @@ Beberapa proyek yang pernah saya kerjakan:
 ## Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tfhrigit&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tfhrigit&theme=default" />
 </p>
 
 ---
 
 ## Aktivitas
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tfhrigit&theme=github" />
 </p>
 ---
 Jika ingin berdiskusi atau bekerja sama, silakan hubungi melalui:
 - GitHub: https://github.com/tfhrigit
 - Email: rikogans754@gmail.com
+
+---- Email: rikogans754@gmail.com
 
 ---
