@@ -77,6 +77,6 @@ Jika ingin berdiskusi atau bekerja sama, silakan hubungi melalui:
 
 - GitHub: https://github.com/tfhrigit  
 - Email: rikogans754@gmail.com
-- Portofolio: txf.vercel.app
+- Portofolio: https://txf.vercel.app
 
 ---
