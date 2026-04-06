@@ -1,19 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Tedi%20Fahri&fontSize=40&fontColor=000000" />
-</p>
-
+<h1 align="center">Tedi Fahri</h1>
 <p align="center">
 Pengembang Web | PHP Developer Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=Web+Developer;Fokus+Laravel+dan+Backend;Membangun+Aplikasi+Berbasis+Web" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Web+Developer;Fokus+Laravel+dan+Backend;Membangun+Aplikasi+Web" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -33,7 +30,7 @@ Saya terus mempelajari berbagai teknologi baru untuk meningkatkan kemampuan dala
 
 - Laravel  
 - MySQL  
-- Laragon & XAMPP  
+- Laragon dan XAMPP  
 - HTML, CSS, JavaScript  
 - Git dan GitHub  
 
@@ -42,7 +39,7 @@ Saya terus mempelajari berbagai teknologi baru untuk meningkatkan kemampuan dala
 ## Proyek
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 Beberapa proyek yang pernah saya kerjakan:
@@ -57,11 +54,11 @@ Beberapa proyek yang pernah saya kerjakan:
 ## Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tfhrigit&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tfhrigit&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tfhrigit&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=tfhrigit&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -69,7 +66,7 @@ Beberapa proyek yang pernah saya kerjakan:
 ## Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tfhrigit&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tfhrigit&theme=github" />
 </p>
 
 ---
