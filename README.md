@@ -81,8 +81,8 @@ Jika ingin berdiskusi atau bekerja sama, silakan hubungi melalui:
 
 ---
 
-## Alok
+## Visitors
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=tfhrigit&label=VISITORS&countColor=%2300f7ff" />
 </p>
