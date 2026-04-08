@@ -2,9 +2,8 @@
 <p align="center">
 Pengembang Web | PHP Developer Enthusiast
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Web+Developer;Fokus+Laravel+dan+Backend;Membangun+Aplikasi+Web" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Laravel+%2B+Blade+%7C+Vite+Build+Tool;HTML5+%7C+CSS3+%7C+Vanilla+JavaScript;Node.js+Runtime;Modern+Web+Development" />
 </p>
 
 ---
