@@ -24,13 +24,12 @@ Saya terus mempelajari berbagai teknologi baru untuk meningkatkan kemampuan dala
 ## Keahlian
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,git,github,vscode" />
 </p>
 
 - Laravel  
 - MySQL  
 - Laragon dan XAMPP  
-- HTML, CSS, JavaScript  
 - Git dan GitHub  
 
 ---
