@@ -16,7 +16,7 @@ Pengembang Web | PHP Developer Enthusiast
 
 ## Tentang Saya
 
-Saya adalah seorang pengembang web yang memiliki minat pada pengembangan aplikasi berbasis web, khususnya menggunakan teknologi seperti HTML, CSS, JavaScript, dan PHP.  
+Saya adalah seorang pengembang web yang memiliki minat pada pengembangan aplikasi berbasis web, khususnya menggunakan teknologi seperti PHP.  
 Saya terus mempelajari berbagai teknologi baru untuk meningkatkan kemampuan dalam membangun sistem yang efektif dan efisien.
 
 ---
