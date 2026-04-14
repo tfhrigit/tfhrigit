@@ -1,4 +1,4 @@
-<h1 align="center">Tedi Fahri</h1>
+<h1 align="center">Ryuxin.dev</h1>
 <p align="center">
 Pengembang Web | PHP Developer Enthusiast
 </p>
