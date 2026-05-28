@@ -16,7 +16,7 @@
 
 # About
 
-```yaml
+
 name: Ryuxin
 role: Fullstack Developer
 focus: Laravel, PHP Native, NodeJS
