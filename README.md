@@ -1,193 +1,316 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d0d,50:1a1a2e,100:16213e&text=RYUXIN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=FULLSTACK%20DEVELOPER&descSize=18&descAlignY=62&descColor=888888"/>
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,30:1e1b4b,60:312e81,100:4f46e5&text=RYUXIN&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=◈%20FULLSTACK%20DEVELOPER%20◈&descSize=20&descAlignY=62&descColor=a5b4fc"/>
 
 </div>
 
+<!-- TYPING ANIMATION -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=888888&center=true&vCenter=true&width=700&lines=Laravel+%2F+PHP+%2F+NodeJS;Fullstack+Web+Developer;Clean+Code+%7C+Clean+Design;Indonesia-based+Builder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=818CF8&center=true&vCenter=true&width=800&lines=⚡+Laravel+%7C+PHP+%7C+NodeJS;🎨+Clean+UI%2FUX+Obsessed;🔥+Building+Fullstack+Experiences;🌐+Indonesia-based+Developer;💡+From+Concept+to+Deployment"/>
 </div>
 
 <br>
 
 ---
 
+<!-- ASCII ART CODER ANIMATION -->
 <div align="center">
 
 ```
-        .                          .
-   _____|_____                _____|_____
-  |           |              |           |
-  |  ryuxin   |   --------   |  builder  |
-  |___________|              |___________|
-       |                          |
-       |    who writes things     |
-       |    that actually work    |
-       |__________________________|
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║   (◣_◢)  < "Every line of code is a brushstroke..."        ║
+ ║   /|  |\                                                     ║
+ ║  / |  | \        ┌─────────────────────────────────┐        ║
+ ║                  │  > php artisan make:magic       │        ║
+ ║    [____]        │  > npm run dev                  │        ║
+ ║   /      \       │  > git push origin main ✓       │        ║
+ ║                  └─────────────────────────────────┘        ║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## ABOUT
+<!-- WHO AM I -->
+<div align="center">
+
+## `{ WHO AM I? }`
+
+</div>
 
 ```yaml
-name        : Ryuxin
-role        : Fullstack Developer
-stack       : Laravel · PHP · NodeJS · MySQL
-tools       : Git · GitHub · VS Code · Vite
-location    : Indonesia
-focus       : Clean interfaces, solid backends
-status      : Open to collaboration
+# ryuxin.config.yml
+
+profile:
+  name        : "Ryuxin"
+  role        : "Fullstack Developer"
+  specialty   : ["Laravel", "Modern Web Development", "Clean UI/UX"]
+  languages   : ["PHP", "JavaScript", "NodeJS"]
+  database    : "MySQL"
+  tools       : ["Git", "GitHub", "VS Code", "Vite"]
+  location    : "🇮🇩 Indonesia"
+  focus       : "Building clean, fast, and meaningful web experiences"
+  status      : "🟢 Open to collaboration"
+  philosophy  : "Write code like you're writing poetry — readable, elegant, intentional."
 ```
 
 ---
 
-## STATS
-
+<!-- ANIMATED STATS SECTION -->
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ryuxin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=555555&text_color=aaaaaa"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuxin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa"/>
+## `[ GITHUB STATISTICS ]`
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryuxin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=e2e8f0&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuxin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0&border_radius=12"/>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=ryuxin&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=444444&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555"/>
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=ryuxin&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=a5b4fc&sideLabels=e2e8f0&dates=64748b&border_radius=12"/>
 
 </div>
 
 ---
 
-## STACK
-
+<!-- TECH STACK -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vite,laravel,php,nodejs,mysql,git,github,vscode&theme=dark&perline=11"/>
+## `[ TECH STACK ]`
+
+<br>
+
+### ▸ Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,vite&theme=dark&perline=4"/>
+
+### ▸ Backend
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs&theme=dark&perline=3"/>
+
+### ▸ Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark&perline=4"/>
 
 </div>
 
 ---
 
-## PROJECTS
+<!-- FEATURED PROJECTS -->
+<div align="center">
+
+## `[ FEATURED PROJECTS ]`
+
+</div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-**PERPUSTAKAAN**
-
-Digital library system for UKK project.
+### 📚 PERPUSTAKAAN
+> Digital library system developed for UKK project.
 
 ```
-PHP Native · MySQL
-Academic · CRUD · Auth
+Stack : PHP Native + MySQL
+Type  : Academic Project
+Focus : CRUD, Auth, Search
 ```
+
+![PHP](https://img.shields.io/badge/PHP_NATIVE-0f172a?style=flat-square&logo=php&logoColor=818cf8)
+![MySQL](https://img.shields.io/badge/MYSQL-0f172a?style=flat-square&logo=mysql&logoColor=818cf8)
 
 </td>
+
 <td width="50%" valign="top">
 
-**BOT WHATSAPP**
-
-Sticker automation bot for WhatsApp.
+### 🤖 BOT WHATSAPP
+> WhatsApp sticker automation bot.
 
 ```
-NodeJS · HTML
-Automation · Bot Logic
+Stack : NodeJS + HTML
+Type  : Automation Tool
+Focus : Bot Logic, UI Control
 ```
+
+![NodeJS](https://img.shields.io/badge/NODEJS-0f172a?style=flat-square&logo=node.js&logoColor=818cf8)
+![HTML](https://img.shields.io/badge/HTML-0f172a?style=flat-square&logo=html5&logoColor=818cf8)
 
 </td>
+
 </tr>
 <tr>
+
 <td width="50%" valign="top">
 
-**SIMMT**
-
-Internship information system with IoT integration.
+### 🏢 SIMMT
+> Integrated internship information system with IoT integration.
 
 ```
-Laravel · Vite
-Enterprise · IoT · Reports
+Stack : Laravel + Vite
+Type  : Enterprise System
+Focus : IoT, Full CRUD, Reports
 ```
+
+![Laravel](https://img.shields.io/badge/LARAVEL-0f172a?style=flat-square&logo=laravel&logoColor=818cf8)
+![Vite](https://img.shields.io/badge/VITE-0f172a?style=flat-square&logo=vite&logoColor=818cf8)
 
 </td>
+
 <td width="50%" valign="top">
 
-**UI EXPLORATION**
-
-Modern dashboard and interface experiments.
+### 🎨 UI EXPLORATION
+> Modern dashboard & aesthetic interface experiments.
 
 ```
-HTML · CSS · JS
-Creative · Motion · Layout
+Stack : HTML + CSS + JS
+Type  : Creative/Portfolio
+Focus : Motion, Layout, Aesthetic
 ```
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX-0f172a?style=flat-square&logoColor=818cf8)
+![Design](https://img.shields.io/badge/CREATIVE-0f172a?style=flat-square&logoColor=818cf8)
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## ACTIVITY
-
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ryuxin&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=888888&line=444444&point=ffffff&area=true&area_color=1a1a2e"/>
+## `[ ACTIVITY ]`
+
+<br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ryuxin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=6366f1&point=f472b6&area=true&area_color=312e81"/>
 
 </div>
 
 ---
 
-## CONTRIBUTION GRID
-
+<!-- ANIMATED SNAKE -->
 <div align="center">
+
+## `[ CONTRIBUTION SNAKE ]`
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## TROPHIES
-
+<!-- ACHIEVEMENTS -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryuxin&theme=onestar&no-frame=true&row=1&column=6&margin-w=6"/>
+## `[ ACHIEVEMENTS ]`
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryuxin&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
 ---
 
+<!-- CODER AT NIGHT SECTION -->
 <div align="center">
 
+## `[ THE DEV CYCLE ]`
+
 ```
-write code. ship things. learn. repeat.
+  ☀️  Morning                 🌙 Night
+  ──────────────────────────────────────────────────────────
+  ╭─────────────────╮         ╭──────────────────────────╮
+  │  Plan the build  │  ────▶  │  Code until 2 AM 🍵      │
+  ╰─────────────────╯         ╰──────────────────────────╯
+           │                             │
+           ▼                             ▼
+  ╭─────────────────╮         ╭──────────────────────────╮
+  │  Research & Read │  ◀────  │  Debug. Cry. Fix. Repeat │
+  ╰─────────────────╯         ╰──────────────────────────╯
+           │
+           ▼
+  ╭──────────────────────────────────────────────────────╮
+  │  git commit -m "finally works 🎉"  &&  git push      │
+  ╰──────────────────────────────────────────────────────╯
 ```
+
+</div>
+
+---
+
+<!-- CURRENT FOCUS -->
+<div align="center">
+
+## `[ CURRENT FOCUS ]`
 
 <br>
 
-<a href="https://github.com/tfhrigit">
-  <img src="https://img.shields.io/badge/github-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
+```javascript
+const ryuxin = {
+  currentlyBuilding : "Fullstack apps with Laravel + Vite",
+  currentlyLearning : ["Advanced PHP Patterns", "REST API Design", "Tailwind CSS v4"],
+  lookingFor        : "Collaborations & interesting projects",
+  funFact           : "I debug faster with lo-fi music 🎧",
+  weeklyGoal        : "Ship something. Learn something. Break something.",
+};
+```
+
+</div>
+
+---
+
+<!-- CONNECT -->
+<div align="center">
+
+## `[ CONNECT WITH ME ]`
+
+<br>
+
+<a href="https://github.com/ryuxin">
+  <img src="https://img.shields.io/badge/◈_GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=818cf8&labelColor=1e1b4b"/>
 </a>
 &nbsp;
-<a href="rikogans754@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:email@example.com">
+  <img src="https://img.shields.io/badge/◈_GMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=1e1b4b"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/linkedin-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/ryuxin">
+  <img src="https://img.shields.io/badge/◈_LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa&labelColor=1e1b4b"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ryuxin&label=views&color=0d0d0d&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=ryuxin&label=PROFILE+VIEWS&color=4f46e5&style=for-the-badge&labelColor=1e1b4b"/>
 
 </div>
 
-<br>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:16213e,100:0d0d0d"/>
+<!-- QUOTE -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   " First, solve the problem. Then, write the code. "           ║
+║                                            — John Johnson        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4f46e5,50:312e81,100:0f172a&animation=twinkling"/>
