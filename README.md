@@ -170,15 +170,15 @@ write code. ship things. learn. repeat.
 
 <br>
 
-<a href="https://github.com/ryuxin">
+<a href="https://github.com/tfhrigit">
   <img src="https://img.shields.io/badge/github-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:email@example.com">
+<a href="rikogans754@gmail.com">
   <img src="https://img.shields.io/badge/gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/ryuxin">
+<a href="https://linkedin.com/in/">
   <img src="https://img.shields.io/badge/linkedin-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
